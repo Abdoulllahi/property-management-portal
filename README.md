@@ -24,7 +24,7 @@ Dashboard Page for owners:
 - Display total views of the properties per location.
 - Add more features as you see fit.
 
-#### Functional  Requirements
+## Functional  Requirements
 
 ---
 
@@ -55,12 +55,12 @@ Dashboard Page for owners:
   - Customers can have multiple favorite lists.
 - Customers can manage their own favorite lists.
 
-#### Sample Domain Models
+## Sample Domain Models
 
 ---
 Refer to zillow.com
 
-#### Technical Details
+## Technical Details
 
 ---
 
