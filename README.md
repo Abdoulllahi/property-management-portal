@@ -64,8 +64,8 @@ Refer to zillow.com
 
 ---
 
-- Use Java and Spring Boot framework for the backend project.
-- Use React framework for the frontend project.
+- Use Java and Spring Boot framework / Node for the backend project.
+- Use React/Angular framework for the frontend project.
 - Use n-tier software architecture model.
 - Populate your database with dummy data using `data.sql`.
   - Prepare your dummy data for testing and presentation.
